@@ -8,4 +8,4 @@ This was a practice project to learn HTML5 and CSS3 coding.
 
 <h2> Screen gif of the result</h2>
 
-![](project.gif)
+![](Project.gif)
